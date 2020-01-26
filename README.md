@@ -1,5 +1,5 @@
 # Vision-Projects
-The computer vision and Image segmentation projects I have undertaken. 
+The computer vision and Semantic Segmentation projects I have undertaken. 
 
 ## Galaxy Zoo - The Galaxy Challenge
 **A Multi-Regression model for classification of Morphology of Galaxies.**
