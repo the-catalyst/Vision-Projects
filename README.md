@@ -20,3 +20,13 @@ As a part of this project, I designed a **model training pipeline** using the Fa
 ![](https://github.com/the-catalyst/SpaceNet-Buildings-v1/blob/master/Result%20Pictures/Housing/Housing%201.png)
 
 To view this project repository click [here.](https://github.com/the-catalyst/SpaceNet-Buildings-v1)
+
+
+## SpaceNet Buildings v2
+This repository showcases the work I did for SpaceNet [Buildings Footprint Extraction Challenge Round 2](https://spacenet.ai/spacenet-buildings-dataset-v2/). The challenge tasked competitors with finding automated methods for **extracting map-ready building footprints** from satellite imagery of 4 cities namely **Las Vegas (USA), Paris (France), Shanghai (China) and Khartoum (Sudan)**. This helps to move toward more accurate, fully automated extraction of buildings aimed at creating better maps where they are most needed.
+
+As a part of this project, I designed a **model training pipeline** using the Fastai Library.
+
+![](https://github.com/the-catalyst/SpaceNet-Buildings-v2/blob/master/Vegas/Residential%201.png)
+
+To view this project repository click [here.](https://github.com/the-catalyst/SpaceNet-Buildings-v2)
